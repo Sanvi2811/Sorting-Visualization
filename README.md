@@ -1,10 +1,10 @@
-# 📊 Sorting Algorithm Visualizer (Python + Matplotlib)
+#  Sorting Algorithm Visualizer (Python + Matplotlib)
 
 An interactive sorting algorithm visualizer built using Python, NumPy, and Matplotlib that animates how different sorting algorithms work step-by-step.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Animated visualization of:
   - Bubble Sort
@@ -18,7 +18,7 @@ An interactive sorting algorithm visualizer built using Python, NumPy, and Matpl
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - NumPy
@@ -28,7 +28,7 @@ An interactive sorting algorithm visualizer built using Python, NumPy, and Matpl
 
 ---
 
-## 📂 How It Works
+##  How It Works
 
 1. The program asks the user to choose a sorting algorithm.
 2. A random array of 15 integers is generated.
@@ -37,15 +37,15 @@ An interactive sorting algorithm visualizer built using Python, NumPy, and Matpl
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
-### 1️⃣ Install Required Libraries
+### 1 Install Required Libraries
 
 ```bash
 pip install matplotlib numpy
 ```
 
-### 2️⃣ Run the Script
+### 2️ Run the Script
 
 ```bash
 python filename.py
@@ -55,7 +55,7 @@ python filename.py
 
 ---
 
-## 📈 Sorting Algorithms Implemented
+##  Sorting Algorithms Implemented
 
 ### 🔹 Bubble Sort
 Repeatedly swaps adjacent elements if they are in the wrong order.
@@ -71,7 +71,7 @@ Uses a pivot element and partitions the array (implemented iteratively using a s
 
 ---
 
-## 🎯 Learning Objective
+##  Learning Objective
 
 This project helps understand:
 - Internal working of sorting algorithms
@@ -81,7 +81,7 @@ This project helps understand:
 
 ---
 
-## 🧠 Future Improvements
+##  Future Improvements
 
 - Add Merge Sort and Heap Sort
 - Add time complexity display
