@@ -1,4 +1,4 @@
-# Importing all the modules required
+
 import sys
 import time
 import matplotlib.pyplot as plt
